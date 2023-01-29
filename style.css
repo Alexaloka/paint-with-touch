@@ -1,0 +1,12 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background{
+background-color: black;
+}
+#myCanvas{
+    width: 70px;
+    height: 60px;
+}
